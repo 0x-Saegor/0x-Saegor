@@ -1,4 +1,4 @@
-<p align="center">&nbsp;Mes Statistiques</p>
+<p align="center">📈 &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arthurdufinister&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
