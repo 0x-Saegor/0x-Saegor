@@ -10,7 +10,7 @@
 
 🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://dmoya.dev" target="_blank">dmoya.dev</a>-->
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,php,git,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,php,git,mysql,java,python)](https://skillicons.dev)
 
 <h3 align="center">
     ⬇⬇ Check my pinned projects below ⬇⬇
