@@ -6,7 +6,7 @@
 
 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Golang and VueJS
 
-💼&nbsp;&nbsp;&nbsp;Here's my portfolio <a href="https://arthurlg.fr">arthurlg.fr</a>&nbsp;
+💻&nbsp;&nbsp;&nbsp;Here's my portfolio <a href="https://arthurlg.fr">arthurlg.fr</a>&nbsp;
 
 📝&nbsp;&nbsp;&nbsp;I occasionally write on my blog at <a href="https://blog.arthurlg.fr">blog.arthurlg.fr</a>&nbsp;
 
