@@ -6,6 +6,12 @@
 
 🌱&nbsp;&nbsp;&nbsp;I’m currently learning Golang and VueJS
 
+💼&nbsp;&nbsp;&nbsp;Here's my portfolio <a href="https://arthurlg.fr">arthurlg.fr</a>&nbsp;
+
+📝&nbsp;&nbsp;&nbsp;I occasionally write on my blog at <a href="https://blog.arthurlg.fr">blog.arthurlg.fr</a>&nbsp;
+
+
+
 <!--📫&nbsp;&nbsp;&nbsp;Email me at example@gmail.com
 
 🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://dmoya.dev" target="_blank">dmoya.dev</a>-->
