@@ -27,5 +27,5 @@
 
 <p align="center">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0x-Saegor&show_icons=true&theme=dark&include_all_commits=true&locale=fr"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Saegor&layout=compact&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Saegor&layout=compact&theme=dark&exclude_repo=CarcassonneWordpress"/>
 </p>
