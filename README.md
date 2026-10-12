@@ -2,13 +2,13 @@
     Hey, I'm Arthur ! 👋🏻
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www.iutvannes.fr/" target="_blank">IUT de Vannes</a>&nbsp;
+&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www.iutvannes.fr/" target="_blank">IUT de Vannes</a>&nbsp;
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently learning Golang and VueJS
+&nbsp;&nbsp;&nbsp;I’m currently learning Golang and VueJS
 
-💻&nbsp;&nbsp;&nbsp;Here's my portfolio <a href="https://arthurlg.fr" target="_blank">arthurlg.fr</a>&nbsp;
+&nbsp;&nbsp;&nbsp;Here's my portfolio <a href="https://arthurlg.fr" target="_blank">arthurlg.fr</a>&nbsp;
 
-📝&nbsp;&nbsp;&nbsp;I occasionally write on my blog at <a href="https://blog.arthurlg.fr" target="_blank">blog.arthurlg.fr</a>&nbsp;
+&nbsp;&nbsp;&nbsp;I occasionally write on my blog at <a href="https://blog.arthurlg.fr" target="_blank">blog.arthurlg.fr</a>&nbsp;
 
 
 
